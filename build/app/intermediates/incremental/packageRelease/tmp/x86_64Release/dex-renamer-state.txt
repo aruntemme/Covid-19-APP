@@ -1,0 +1,4 @@
+#Sun May 10 12:37:41 IST 2020
+base.0=/home/temme/AndroidStudioProjects/Covid-19/build/app/intermediates/dex/release/shrunkDex/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
